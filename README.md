@@ -1,2 +1,2 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
-Desafio de projeto Git/Gihub - Bootcamp Unimed-BH
+Repositório criado para o desafio de projeto Git/Gihub - Bootcamp Unimed-BH
